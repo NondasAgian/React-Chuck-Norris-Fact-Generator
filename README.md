@@ -1,2 +1,2 @@
 # React-Chuck-Norris-Fact-Generator
-A simple react app with Axios, that fetches Chuck Norris Facts. Made with React and Axios
+A React App that pulls data from https://api.chucknorris.io/ database: https://api.chucknorris.io/jokes/random using the Axios nmp module and displays a new fact every time the button is pressed.
